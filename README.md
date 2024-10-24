@@ -1,1 +1,2 @@
 # Titanic-Analysis
+This project analyzes the Titanic dataset to explore the factors influencing passenger survival. Using data such as age, gender, passenger class, fare, and more, the project applies data analysis, visualization, and machine learning techniques to predict whether a passenger survived the disaster. Key tools and libraries include Python, Pandas, Seaborn, Matplotlib, and Scikit-learn. The goal is to gain insights from the data and build predictive models to improve survival rate predictions.
